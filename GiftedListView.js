@@ -225,7 +225,7 @@ var GiftedListView = React.createClass({
       this._setY(0);
     }
 
-    this._setPage(1);
+    this._setPage(0);
     this._setRows([]);
 
     var ds = null;
